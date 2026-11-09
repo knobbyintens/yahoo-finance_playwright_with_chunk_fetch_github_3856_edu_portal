@@ -1,0 +1,30 @@
+{
+  "base_currency": "USD",
+  "regions": {
+    "US": {
+      "currency": "USD",
+      "device_education_price": 1049,
+      "accessory_education_price": 259,
+      "bundle_total_local": 1308,
+      "bundle_total_usd": 1308.0
+    },
+    "HK": {
+      "currency": "HKD",
+      "device_education_price": 8799,
+      "accessory_education_price": 2099,
+      "bundle_total_local": 10898,
+      "bundle_total_usd": 1389.84
+    },
+    "SG": {
+      "currency": "SGD",
+      "device_education_price": 1429,
+      "accessory_education_price": 339,
+      "bundle_total_local": 1768,
+      "bundle_total_usd": 1379.84
+    }
+  },
+  "cheapest_region": "US",
+  "cheapest_bundle_total_usd": 1308.0,
+  "decision": "approve",
+  "order_quantity": 12
+}
